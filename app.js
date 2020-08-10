@@ -1,7 +1,7 @@
 // Initialize Firebase
 
 
-///Edit Under This
+///Edit Under This only
 
 var firebaseConfig = {
   apiKey: "api-key",
