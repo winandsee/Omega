@@ -1,16 +1,14 @@
 // Initialize Firebase
 
-
-///Edit Under This
 const firebaseConfig = {
-  apiKey: "AIzaSyCim6hRj0pUa7Z5KCgo5zRNN7NbYmCaeC4",
-  authDomain: "all-hack-6491f.firebaseapp.com",
-  databaseURL: "https://all-hack-6491f.firebaseio.com",
-  projectId: "all-hack-6491f",
-  storageBucket: "all-hack-6491f.appspot.com",
-  messagingSenderId: "536322740704",
-  appId: "1:536322740704:web:f0b705bb3503d0001cdb85",
-  measurementId: "G-113227P66Q"
+  apiKey: "AIzaSyBJKu-usz4U24d1r1PIT5zTUM5VyH1aBv0",
+  authDomain: "new-awesome-b5fc1.firebaseapp.com",
+  databaseURL: "https://new-awesome-b5fc1.firebaseio.com",
+  projectId: "new-awesome-b5fc1",
+  storageBucket: "new-awesome-b5fc1.appspot.com",
+  messagingSenderId: "165959613593",
+  appId: "1:165959613593:web:a130763cbb0efc592d0c08",
+  measurementId: "G-QV2GLQVE8R"
 };
 ////Do Not Edit Below This
 
